@@ -45,4 +45,4 @@ ZZHRES_ZHRTT_EMPLEADO  -> HACIENDO CLICK EN APPEND ESTRUCTURE
 e070 tabla de transportes - cabeceras
 e071 tabla de transportes - posiciones
 se unirán las 2 tablas para su utlizacion en consultas, se hara en la pestaña view
-con el nombre ZHRV_ORDEN_TRANSPORTES
+con el nombre ZHRV_ORDEN_TRANSPORTESxx
